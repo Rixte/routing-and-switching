@@ -1,7 +1,7 @@
 <h2>Routing & Switching</h2>
 <p>This is a Cisco-based network project focused on specific topics in CCNA2, with some focus on CCNA1 and CCNA3.</p>
 
-<h3>CCNA2 Topics Include</h3>
+<h3>CCNA2 Topics Included</h3>
 <ul>
   <li>Dynamic Host Configuration Protocol (DHCP)</li>
   <li>Port Security</li>
