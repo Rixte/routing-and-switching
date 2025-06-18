@@ -1,17 +1,16 @@
-# Routing & Switching
-This is a network project focused on the topics in CCNA1 and CCNA2.
+<h2>Routing & Switching</h2>
+<p>This is a Cisco-based network project focused on specific topics in CCNA2, with some focus on CCNA1 and CCNA3.</p>
 
-## Scenario
-I am a Network Engineer in a small-medium sized enterprise (SME) company. My company is implementing a wired network that can support growth over the next five years. My task is to setup and configure the network using packet tracer and verify its connectivity.
+<h3>CCNA2 Topics Include:</h3>
+<ul>
+  <li>Dynamic Host Configuration Protocol (DHCP)</li>
+  <li>Port Security</li>
+  <li>Secure Shell (SSH) Remote Access</li>
+  <li>Etherchannel</li>
+  <li>Hot Standby Router Protocol (HSRP)</li>
+</ul>
 
-My manager has given me the following diagram requirements to ensure connectivity and network security within the wired local area network (LAN):
-![image](https://github.com/user-attachments/assets/6b124f08-1f38-4966-bc34-0d6eb22add86)
+<h3>Final Network Topology</h3>
+<img src="https://github.com/user-attachments/assets/de99b26e-0049-40bb-9629-5d8308127439" alt="Final Network Topology" width="50%">
 
-### Final Network Topology
-![image](https://github.com/user-attachments/assets/de99b26e-0049-40bb-9629-5d8308127439)
-
-### IPv4 Addressing Table
-
-### VLAN and Port Assignments
-
-## Verification Tests
+<h5>Check out the Packet Tracer (.pkt) file <a href="<tochange>.pkt">here</a> and the project report <a href="Routing & Switching Report.pdf">here</a>.</h5>
