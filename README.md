@@ -18,7 +18,7 @@ This is a Cisco-based networking project focusing on core topics from **CCNA2**,
 
 ![Final Network Topology](https://github.com/user-attachments/assets/de99b26e-0049-40bb-9629-5d8308127439)
 
-The network was designed and configured in **Cisco Packet Tracer**, applying real-world configurations for associate level redundancy, security, and scalability.
+The network was designed and configured in **Cisco Packet Tracer**, applying real-world configurations for basic-level redundancy, security, and scalability.
 
 > ⭐ **[Download the Packet Tracer (.pkt) file here](Routing%20%26%20Switching%20Project.pkt)**  
 > 📄 **[View the project report here](Routing%20%26%20Switching%20Report.pdf)**
